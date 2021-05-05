@@ -35,7 +35,7 @@
  */
 
 #include "System.h"
-#include "uCUnit-v1.0.h"
+#include "uCUnit.h"
 #include "Testsuite.h"
 
 static void Test_BasicChecksDemo(void)
